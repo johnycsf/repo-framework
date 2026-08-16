@@ -61,6 +61,7 @@ That creates the GitHub repo from this template, clones it beside the framework,
 | `docs/BACKUP_ENCRYPTION.md` | Encryption design (age vs SHA256 integrity)
 | `docs/HOST_PORTS.md` | Docker host port prompts + conflict checks
 | `docs/ARROW_KEY_MENUS.md` | gum arrow-key manage.sh menus
+| `CREDITS.md` | Upstream apps + shared tooling (update when adding tools)
 
 
 | `docs/UI_PALETTE.md` | Palette reference |

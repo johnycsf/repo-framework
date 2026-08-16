@@ -69,3 +69,10 @@ Copy the pastel `_ui_setup` from [`snippets/ui-pastel.sh`](../snippets/ui-pastel
 - [ ] Compose uses `${PORT_VAR:-default}:containerPort`
 - [ ] `install.sh` calls `configure_host_port` after creating `.env`
 - [ ] Document defaults + `SKIP_PORT_PROMPTS` in README
+
+## 10. Credits discipline
+
+- [ ] App upstream projects listed in `CREDITS.md`
+- [ ] Shared tooling section includes any new helpers (gum, age, …)
+- [ ] Update `CREDITS.md` in the **same PR** as the feature that adds a dependency
+
