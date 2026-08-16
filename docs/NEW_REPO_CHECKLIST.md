@@ -63,3 +63,9 @@ Copy the pastel `_ui_setup` from [`snippets/ui-pastel.sh`](../snippets/ui-pastel
 - [ ] Soft ask after Install
 - [ ] Include `SECURITY.md` and `CHANGELOG.md`
 - [ ] Add screenshots/GIF when ready
+
+## 9. Host ports (Docker app stacks)
+
+- [ ] Compose uses `${PORT_VAR:-default}:containerPort`
+- [ ] `install.sh` calls `configure_host_port` after creating `.env`
+- [ ] Document defaults + `SKIP_PORT_PROMPTS` in README
