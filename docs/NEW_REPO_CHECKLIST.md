@@ -55,3 +55,11 @@ Check on GitHub:
 ## 7. Interactive install UI (if you add deps.sh)
 
 Copy the pastel `_ui_setup` from [`snippets/ui-pastel.sh`](../snippets/ui-pastel.sh) (see [UI_PALETTE.md](UI_PALETTE.md)).
+
+## 8. Growth / discoverability
+
+- [ ] Set GitHub **topics** and a clear **description**
+- [ ] Keep mid-page **Support this work** (what sponsorship funds)
+- [ ] Soft ask after Install
+- [ ] Include `SECURITY.md` and `CHANGELOG.md`
+- [ ] Add screenshots/GIF when ready
