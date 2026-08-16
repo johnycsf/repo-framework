@@ -1,7 +1,7 @@
 # Native menus (`ui_choose`)
 
 `./manage.sh` uses a **bash** select loop: ↑/↓ (or j/k) to move, **Enter** to confirm.
-The current item is marked with a green `>` chevron — no gum/whiptail required.
+The current item is marked with a green `>` chevron. No extra menu packages are required.
 
 Non-interactive / non-TTY callers get the first option automatically.
 

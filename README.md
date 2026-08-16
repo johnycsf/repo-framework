@@ -57,10 +57,10 @@ That creates the GitHub repo from this template, clones it beside the framework,
 | `.gitignore` | Sensible defaults |
 | `snippets/ui-pastel.sh` | Pastel `_ui_setup` for install/manage UIs |
 | `SECURITY.md` / `CHANGELOG.md` | Vulnerability reporting + release notes
-| `snippets/backup-encrypt.sh` | Optional age-encrypted backup exports
+| `snippets/backup-encrypt.sh` | Optional compressed / age-encrypted backup exports
 | `docs/BACKUP_ENCRYPTION.md` | Encryption design (age vs SHA256 integrity)
 | `docs/HOST_PORTS.md` | Docker host port prompts + conflict checks
-| `docs/ARROW_KEY_MENUS.md` | gum arrow-key manage.sh menus
+| `docs/ARROW_KEY_MENUS.md` | Native ↑/↓ `>` manage.sh menus
 | `CREDITS.md` | Upstream apps + shared tooling (update when adding tools)
 
 
