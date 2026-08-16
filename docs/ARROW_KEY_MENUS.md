@@ -1,10 +1,8 @@
-# Arrow-key menus (`ui_choose`)
+# Native menus (`ui_choose`)
 
-`./manage.sh` uses **arrow keys + Enter** via [gum](https://github.com/charmbracelet/gum).
+`./manage.sh` uses a **bash** select loop: ↑/↓ (or j/k) to move, **Enter** to confirm.
+The current item is marked with a green `>` chevron — no gum/whiptail required.
 
-Priority:
-1. `gum choose` (auto-installed via package or `~/.local/bin` binary)
-2. `whiptail` (newt)
-3. Numbered list fallback (non-TTY / no tools)
+Non-interactive / non-TTY callers get the first option automatically.
 
-Helpers in `deps.sh`: `_ui_ensure_chooser`, `ui_choose`.
+Helper in `deps.sh`: `ui_choose VAR "Header" "Option A" "Option B" ...`

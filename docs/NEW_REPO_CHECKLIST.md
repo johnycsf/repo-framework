@@ -73,6 +73,6 @@ Copy the pastel `_ui_setup` from [`snippets/ui-pastel.sh`](../snippets/ui-pastel
 ## 10. Credits discipline
 
 - [ ] App upstream projects listed in `CREDITS.md`
-- [ ] Shared tooling section includes any new helpers (gum, age, …)
+- [ ] Shared tooling section includes any new helpers (age, zip/unzip, xz, …)
 - [ ] Update `CREDITS.md` in the **same PR** as the feature that adds a dependency
 
