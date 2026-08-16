@@ -57,6 +57,8 @@ That creates the GitHub repo from this template, clones it beside the framework,
 | `.gitignore` | Sensible defaults |
 | `snippets/ui-pastel.sh` | Pastel `_ui_setup` for install/manage UIs |
 | `SECURITY.md` / `CHANGELOG.md` | Vulnerability reporting + release notes
+| `snippets/backup-encrypt.sh` | Optional age-encrypted backup exports
+| `docs/BACKUP_ENCRYPTION.md` | Encryption design (age vs SHA256 integrity)
 
 | `docs/UI_PALETTE.md` | Palette reference |
 
