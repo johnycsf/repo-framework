@@ -60,6 +60,8 @@ That creates the GitHub repo from this template, clones it beside the framework,
 | `snippets/backup-encrypt.sh` | Optional age-encrypted backup exports
 | `docs/BACKUP_ENCRYPTION.md` | Encryption design (age vs SHA256 integrity)
 | `docs/HOST_PORTS.md` | Docker host port prompts + conflict checks
+| `docs/ARROW_KEY_MENUS.md` | gum arrow-key manage.sh menus
+
 
 | `docs/UI_PALETTE.md` | Palette reference |
 
