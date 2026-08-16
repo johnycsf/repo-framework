@@ -1,0 +1,41 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# Secrets & local env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.id_rsa*
+.admin-token
+secrets/
+*.secret
+
+# Runtime / local data (homelab stacks)
+data/
+backups/
+*.backup
+.storage-class
+.replicas
+
+# Language / build (extend per project)
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
