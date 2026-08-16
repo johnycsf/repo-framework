@@ -51,3 +51,7 @@ Check on GitHub:
 - [ ] **Sponsor** button appears (FUNDING.yml)
 - [ ] **New issue** offers the Bug report form
 - [ ] CREDITS.md names upstream developers
+
+## 7. Interactive install UI (if you add deps.sh)
+
+Copy the pastel `_ui_setup` from [`snippets/ui-pastel.sh`](../snippets/ui-pastel.sh) (see [UI_PALETTE.md](UI_PALETTE.md)).

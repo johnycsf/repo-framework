@@ -10,6 +10,7 @@ Use this so every new repo ships with the same:
 - GitHub Sponsors **funding**
 - MIT **license**
 - Issue template for bugs
+- Soft **pastel** terminal UI palette for interactive install scripts (`docs/UI_PALETTE.md`)
 
 ## Create a new repo from this framework
 
@@ -54,6 +55,8 @@ That creates the GitHub repo from this template, clones it beside the framework,
 | `.github/FUNDING.yml` | GitHub Sponsors → johnycsf |
 | `.github/ISSUE_TEMPLATE/bug_report.yml` | Guided bug reports |
 | `.gitignore` | Sensible defaults |
+| `snippets/ui-pastel.sh` | Pastel `_ui_setup` for install/manage UIs |
+| `docs/UI_PALETTE.md` | Palette reference |
 
 ## After you create a repo
 
