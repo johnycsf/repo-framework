@@ -18,6 +18,7 @@
 - Beginner-friendly install path (`./install.sh` / `./manage.sh` when present)
 - Official upstream images / tools only (when packaging apps)
 - Safe update + backup patterns where applicable
+- Docker host port conflict checks with optional custom ports (saved in `.env`)
 
 ## Support this work
 
